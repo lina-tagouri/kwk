@@ -1,4 +1,9 @@
-{
-MARGIN: 10px;
-PADDING: 3px;
+.food{ border: 10px dashed;
+height:300px;
+width: 400px}
+
+body {background-color: roseybrown;}
+body{
+  text-align: center;
 }
+#hello{border:10px dashed}
